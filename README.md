@@ -43,7 +43,5 @@ Durante as aulas da imersão alura foi desenvolvido este primeiro projeto que é
 - Entrada: 1000 Wons
 - Saída: R$ 4,00
 
-## Autor
 
-Desenvolvido por Joyce Cruz 
 
