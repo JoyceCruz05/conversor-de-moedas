@@ -21,7 +21,7 @@ Durante as aulas da imersão alura foi desenvolvido este primeiro projeto que é
 
 ## Como usar
 
-1.  Abra o arquivo `https://codepen.io/JoyceCruz05/full/NPWEdab` em seu navegador.
+1.  Abra o arquivo <https://codepen.io/JoyceCruz05/full/NPWEdab> em seu navegador.
 2.  Clique no botão "Bora Converter!".
 3.  Siga as instruções nos prompts para inserir a moeda e o valor.
 4.  O resultado da conversão será exibido na tela.
